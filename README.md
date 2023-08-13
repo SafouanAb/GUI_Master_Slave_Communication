@@ -1,1 +1,3 @@
 # GUI_Master_Slave_Communication
+
+The following repo contains 3 python scripts : the first creates a GUI which you can run it on a Master PC , and from it you can Add a slave , check the communication between the master and the slave, import a python script and run it on a selected slave the second code should be running on the slave, it serve a open TCP listening port in order to execute the scripts coming from the master, third is a validation script (example) , you can import from the GUI in the master and it should run on the slave, the outcome it will download WireShark and save it on the slave
